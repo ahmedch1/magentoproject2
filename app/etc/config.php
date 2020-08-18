@@ -240,6 +240,7 @@ return [
         'Klarna_Core' => 1,
         'Klarna_Ordermanagement' => 1,
         'Klarna_Kp' => 1,
+        'Learning_ClothingMaterial' => 1,
         'Learning_FirstUnit' => 1,
         'Learning_GreetingMessage' => 1,
         'Learning_HelloPage' => 1,
